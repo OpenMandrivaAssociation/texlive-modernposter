@@ -1,6 +1,6 @@
 Name:		texlive-modernposter
 Version:	47269
-Release:	1
+Release:	2
 Summary:	A modern LaTeX poster theme
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/modernposter
